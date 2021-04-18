@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>org.example.softwaretest</groupId>
-    <artifactId>testng-demo</artifactId>
+    <artifactId>mockito-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
