@@ -1,3 +1,6 @@
+package com.example.softwaretest;
+
+import com.example.softwaretest.Stack;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
