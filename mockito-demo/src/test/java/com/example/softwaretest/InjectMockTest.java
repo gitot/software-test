@@ -14,7 +14,7 @@ public class InjectMockTest {
     @Mock
     private UserService userService;
     @InjectMocks
-    private OrderService orderService = new OrderService();
+    private OrderService orderService;
 
     @BeforeMethod
     public void setUp() {
